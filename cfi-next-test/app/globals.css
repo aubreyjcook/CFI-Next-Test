@@ -657,7 +657,7 @@ body {
   }
   .row.landing {
     width: 100vw;
-    background-image: url("../images/csiconcrowd.jpg");
+    /* background-image: url("../images/csiconcrowd.jpg"); */
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Footer from "./components/gatsby-import/footer"
 
 export default function Home() {
   return (
@@ -10,7 +11,7 @@ export default function Home() {
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <h2 className="text-lg font-medium">
-          Footer
+          
         </h2>
       </footer>
     </div>
